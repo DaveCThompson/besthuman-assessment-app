@@ -1,0 +1,45 @@
+# Dependencies
+/node_modules/
+/.pnpm/
+/.yarn*/
+.yarnrc.yml
+
+# Testing
+/coverage
+
+# Next.js
+.next/
+/out/
+
+# Turbopack
+.turbo/
+
+# Production
+/build
+
+# Vercel
+.vercel
+
+# TypeScript
+.tsbuildinfo
+next-env.d.ts
+
+# Env files
+.env*
+*.env
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor
+.vscode/
+
+# Optional: shadcn metadata
+components.json
